@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+    <root type="user">
+        <map>
+            <entry key="JetBrains.UserIdOnMachine" value="56b6ce91-2e0c-4b46-9b73-542f7011b029"/>
+            <entry key="key" value="velue"/>
+            <entry key="one" value="1"/>
+        </map>
+        <node title="com">
+            <map/>
+            <node title="max">
+                <map/>
+                <node title="lessons">
+                      <map>This is SPARTAAA!!!!!</map>
+                </node>
+            </node>
+        </node>
+        <node title="jetbrains">
+            <map>
+                <entry key="user_id_on_machine" value="56b6ce91-2e0c-4b46-9b73-542f7011b029"/>
+            </map>
+            <node title="privacy_policy">
+                <map>
+                    <entry key="accepted_version" value="1.1"/>
+                </map>
+            </node>
+        </node>
+        <node title="properties">
+            <map/>
+        </node>
+    </root>
+</preferences>
